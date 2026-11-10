@@ -98,6 +98,12 @@
             "state" : "needs_review",
             "value" : ""
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
         }
       }
     },
@@ -196,6 +202,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : " – %lld"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : " – %lld"
           }
         }
@@ -298,6 +310,12 @@
             "state" : "needs_review",
             "value" : "“当前播放”是历史版本中的唯一选项。该选项可兼容所有媒体应用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“播放中”是歷史版本中的唯一選項。該選項可相容所有媒體應用。"
+          }
         }
       }
     },
@@ -396,6 +414,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "(%@)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "(%@)"
           }
         }
@@ -498,6 +522,12 @@
             "state" : "needs_review",
             "value" : "%.0f 秒"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%.0f 秒"
+          }
         }
       }
     },
@@ -596,6 +626,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "%.1fs"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "%.1fs"
           }
         }
@@ -698,6 +734,12 @@
             "state" : "needs_review",
             "value" : "%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
         }
       }
     },
@@ -796,6 +838,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "%d%%"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "%d%%"
           }
         }
@@ -898,6 +946,12 @@
             "state" : "needs_review",
             "value" : "%lld"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
         }
       }
     },
@@ -996,6 +1050,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "%lld%%"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "%lld%%"
           }
         }
@@ -1098,6 +1158,12 @@
             "state" : "needs_review",
             "value" : "• Bug 修复"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Bug 修復"
+          }
         }
       }
     },
@@ -1198,6 +1264,12 @@
             "state" : "needs_review",
             "value" : "• 提升性能"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• 提升效能"
+          }
         }
       }
     },
@@ -1296,6 +1368,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "• 新功能1"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "• 新功能1"
           }
         }
@@ -1398,6 +1476,12 @@
             "state" : "needs_review",
             "value" : "关于"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於"
+          }
         }
       }
     },
@@ -1497,6 +1581,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "首选颜色"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "強調顏色"
           }
         }
       }
@@ -1598,6 +1688,12 @@
             "state" : "needs_review",
             "value" : "访问被拒绝"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "訪問被拒絕"
+          }
         }
       }
     },
@@ -1696,6 +1792,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Accessibility access is required to replace the system HUD."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Accessibility access is required to replace the system HUD."
           }
         }
@@ -1798,6 +1900,12 @@
             "state" : "needs_review",
             "value" : "添加"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增"
+          }
         }
       }
     },
@@ -1899,6 +2007,12 @@
             "state" : "needs_review",
             "value" : "手动添加"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手動新增"
+          }
         }
       }
     },
@@ -1999,6 +2113,12 @@
             "state" : "needs_review",
             "value" : "添加新的可视化器"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增新的視覺化器"
+          }
         }
       }
     },
@@ -2097,6 +2217,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "其他功能"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "其他功能"
           }
         }
@@ -2199,6 +2325,12 @@
             "state" : "needs_review",
             "value" : "Advanced"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Advanced"
+          }
         }
       }
     },
@@ -2297,6 +2429,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "全天"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "全天"
           }
         }
@@ -2399,6 +2537,12 @@
             "state" : "needs_review",
             "value" : "允许访问"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允許訪問"
+          }
         }
       }
     },
@@ -2497,6 +2641,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Always show full event titles"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Always show full event titles"
           }
         }
@@ -2599,6 +2749,12 @@
             "state" : "needs_review",
             "value" : "总是显示标签页"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "總是顯示標籤頁"
+          }
         }
       }
     },
@@ -2698,6 +2854,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "应用图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "應用圖示"
           }
         }
       }
@@ -2799,6 +2961,12 @@
             "state" : "needs_review",
             "value" : "外观"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外觀"
+          }
         }
       }
     },
@@ -2897,6 +3065,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Auto-scroll to next event"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Auto-scroll to next event"
           }
         }
@@ -2999,6 +3173,12 @@
             "state" : "needs_review",
             "value" : "自动检查更新"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動檢查更新"
+          }
         }
       }
     },
@@ -3098,6 +3278,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "自动下载更新"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動下載更新"
           }
         }
       }
@@ -3199,6 +3385,12 @@
             "state" : "needs_review",
             "value" : "自动切换显示器"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動切換顯示器"
+          }
         }
       }
     },
@@ -3298,6 +3490,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "电池"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電池"
           }
         }
       }
@@ -3399,6 +3597,12 @@
             "state" : "needs_review",
             "value" : "电池信息"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電池資訊"
+          }
         }
       }
     },
@@ -3498,6 +3702,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "电池设置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電池設定"
           }
         }
       }
@@ -3599,6 +3809,12 @@
             "state" : "needs_review",
             "value" : "电池状态"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電池狀態"
+          }
         }
       }
     },
@@ -3699,6 +3915,12 @@
             "state" : "needs_review",
             "value" : "使用剪贴板管理器提升你的效率"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用剪貼簿管理器提升你的效率"
+          }
         }
       }
     },
@@ -3797,6 +4019,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Boring Notch"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Boring Notch"
           }
         }
@@ -3899,6 +4127,12 @@
             "state" : "needs_review",
             "value" : "boring.notch"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "boring.notch"
+          }
         }
       }
     },
@@ -3998,6 +4232,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "日历"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日曆"
           }
         }
       }
@@ -4099,6 +4339,12 @@
             "state" : "needs_review",
             "value" : "日历访问被拒绝。请在系统设置中启用它。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日曆存取被拒絕。請在系統設定中啟用它。"
+          }
         }
       }
     },
@@ -4199,6 +4445,12 @@
             "state" : "needs_review",
             "value" : "日历"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日曆"
+          }
         }
       }
     },
@@ -4297,6 +4549,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "取消"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "取消"
           }
         }
@@ -4399,6 +4657,12 @@
             "state" : "needs_review",
             "value" : "Change media with horizontal gestures"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change media with horizontal gestures"
+          }
         }
       }
     },
@@ -4498,6 +4762,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "充电中"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "充電中"
           }
         }
       }
@@ -4599,6 +4869,12 @@
             "state" : "needs_review",
             "value" : "暂停充电：桌面模式"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫停充電：桌面模式"
+          }
         }
       }
     },
@@ -4698,6 +4974,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "检查更新…"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "檢查更新…"
           }
         }
       }
@@ -4799,6 +5081,12 @@
             "state" : "needs_review",
             "value" : "选择音乐来源"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇音樂來源"
+          }
         }
       }
     },
@@ -4897,6 +5185,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Choose any color"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Choose any color"
           }
         }
@@ -4999,6 +5293,12 @@
             "state" : "needs_review",
             "value" : ""
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
         }
       }
     },
@@ -5097,6 +5397,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Choose which service to use when sharing files from the shelf. Click the shelf button to select files, or drag files onto it to share immediately."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Choose which service to use when sharing files from the shelf. Click the shelf button to select files, or drag files onto it to share immediately."
           }
         }
@@ -5199,6 +5505,12 @@
             "state" : "needs_review",
             "value" : "圆形"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圓形"
+          }
         }
       }
     },
@@ -5297,6 +5609,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Clear slot"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Clear slot"
           }
         }
@@ -5399,6 +5717,12 @@
             "state" : "needs_review",
             "value" : "关闭"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關閉"
+          }
         }
       }
     },
@@ -5499,6 +5823,12 @@
             "state" : "needs_review",
             "value" : "关闭手势"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關閉手勢"
+          }
         }
       }
     },
@@ -5597,6 +5927,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Closed Notch"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Closed Notch"
           }
         }
@@ -5699,6 +6035,12 @@
             "state" : "needs_review",
             "value" : "Color Presets"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color Presets"
+          }
         }
       }
     },
@@ -5797,6 +6139,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Colored spectrogram"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Colored spectrogram"
           }
         }
@@ -5899,6 +6247,12 @@
             "state" : "needs_review",
             "value" : "即将上线"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即將上線"
+          }
         }
       }
     },
@@ -5999,6 +6353,12 @@
             "state" : "needs_review",
             "value" : "继续"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續"
+          }
         }
       }
     },
@@ -6097,6 +6457,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Copy items on drag"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Copy items on drag"
           }
         }
@@ -6199,6 +6565,12 @@
             "state" : "needs_review",
             "value" : "圆角半径"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圓角半徑"
+          }
         }
       }
     },
@@ -6297,6 +6669,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Currently selected: %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Currently selected: %@"
           }
         }
@@ -6399,6 +6777,12 @@
             "state" : "needs_review",
             "value" : "Custom"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom"
+          }
         }
       }
     },
@@ -6498,6 +6882,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "自定义高度"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定義高度"
           }
         }
       }
@@ -6599,6 +6989,12 @@
             "state" : "needs_review",
             "value" : "自定义音乐实时动画"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定義音樂即時動畫"
+          }
         }
       }
     },
@@ -6698,6 +7094,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "自定义Notch大小 - %.0f"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定義Notch大小 - %.0f"
           }
         }
       }
@@ -6799,6 +7201,12 @@
             "state" : "needs_review",
             "value" : "自定义可视化器（Lottie）"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定義視覺化器（Lottie）"
+          }
         }
       }
     },
@@ -6899,6 +7307,12 @@
             "state" : "needs_review",
             "value" : "在设置中自定义"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在設定中自定義"
+          }
         }
       }
     },
@@ -6997,6 +7411,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Customize which controls appear in the music player. Volume expands when active."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Customize which controls appear in the music player. Volume expands when active."
           }
         }
@@ -7099,6 +7519,12 @@
             "state" : "needs_review",
             "value" : "默认"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "預設"
+          }
         }
       }
     },
@@ -7198,6 +7624,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "描述"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "描述"
           }
         }
@@ -7301,6 +7733,12 @@
             "state" : "needs_review",
             "value" : "禁用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停用"
+          }
         }
       }
     },
@@ -7402,6 +7840,12 @@
             "state" : "needs_review",
             "value" : "已禁用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已停用"
+          }
         }
       }
     },
@@ -7501,6 +7945,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "下载"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載"
           }
         }
       }
@@ -7603,6 +8053,12 @@
             "state" : "needs_review",
             "value" : "下载"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載"
+          }
         }
       }
     },
@@ -7701,6 +8157,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Drag a control onto a slot"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Drag a control onto a slot"
           }
         }
@@ -7803,6 +8265,12 @@
             "state" : "needs_review",
             "value" : "Drag items in the preview to reorder or drop from the palette"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag items in the preview to reorder or drop from the palette"
+          }
         }
       }
     },
@@ -7902,6 +8370,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "拖放文件到这里"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拖放檔案到這裡"
           }
         }
       }
@@ -8003,6 +8477,12 @@
             "state" : "needs_review",
             "value" : "轻松复制、存储和管理您最常用的内容。升级后可解锁高级功能，如多项目存储和快速访问！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輕鬆複製、儲存和管理您最常用的內容。升級後可解鎖高階功能，如多專案儲存和快速存取！"
+          }
         }
       }
     },
@@ -8102,6 +8582,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "编辑布局"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "編輯佈局"
           }
         }
       }
@@ -8203,6 +8689,12 @@
             "state" : "needs_review",
             "value" : "启用专辑封面的模糊效果"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用專輯封面的模糊效果"
+          }
         }
       }
     },
@@ -8302,6 +8794,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "启用虚拟镜像"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用虛擬鏡像"
           }
         }
       }
@@ -8404,6 +8902,12 @@
             "state" : "needs_review",
             "value" : "启用彩色谱图"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用彩色譜圖"
+          }
         }
       }
     },
@@ -8503,6 +9007,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "启用手势"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用手勢"
           }
         }
       }
@@ -8604,6 +9114,12 @@
             "state" : "needs_review",
             "value" : "启用发光效果"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用發光效果"
+          }
         }
       }
     },
@@ -8702,6 +9218,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Enable haptic feedback"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Enable haptic feedback"
           }
         }
@@ -8804,6 +9326,12 @@
             "state" : "needs_review",
             "value" : "启用暂存区"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用暫存區"
+          }
         }
       }
     },
@@ -8903,6 +9431,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "启用窗口阴影"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用視窗陰影"
           }
         }
       }
@@ -9004,6 +9538,12 @@
             "state" : "needs_review",
             "value" : "用 HUD 提升您的体验"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用 HUD 提升您的體驗"
+          }
         }
       }
     },
@@ -9104,6 +9644,12 @@
             "state" : "needs_review",
             "value" : "享受您的闲暇时光！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "享受您的閒暇時光！"
+          }
         }
       }
     },
@@ -9202,6 +9748,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Expanded drag detection area"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Expanded drag detection area"
           }
         }
@@ -9304,6 +9856,12 @@
             "state" : "needs_review",
             "value" : "扩展悬停区域"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "擴展懸停區域"
+          }
         }
       }
     },
@@ -9405,6 +9963,12 @@
             "state" : "needs_review",
             "value" : "扩展"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "擴充套件"
+          }
         }
       }
     },
@@ -9503,6 +10067,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Files dropped on the shelf will be shared via this service"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Files dropped on the shelf will be shared via this service"
           }
         }
@@ -9605,6 +10175,12 @@
             "state" : "needs_review",
             "value" : "完成"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
+          }
         }
       }
     },
@@ -9703,6 +10279,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Full screen behavior"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Full screen behavior"
           }
         }
@@ -9805,6 +10387,12 @@
             "state" : "needs_review",
             "value" : "通用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通用"
+          }
         }
       }
     },
@@ -9904,6 +10492,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "手势控制"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手勢控制"
           }
         }
       }
@@ -10005,6 +10599,12 @@
             "state" : "needs_review",
             "value" : "手势灵敏度"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手勢靈敏度"
+          }
         }
       }
     },
@@ -10105,6 +10705,12 @@
             "state" : "needs_review",
             "value" : "开始使用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始使用"
+          }
         }
       }
     },
@@ -10203,6 +10809,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "GitHub"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "GitHub"
           }
         }
@@ -10305,6 +10917,12 @@
             "state" : "needs_review",
             "value" : "明白了！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "明白了！"
+          }
         }
       }
     },
@@ -10405,6 +11023,12 @@
             "state" : "needs_review",
             "value" : "渐变"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "漸變"
+          }
         }
       }
     },
@@ -10503,6 +11127,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Hide all-day events"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Hide all-day events"
           }
         }
@@ -10605,6 +11235,12 @@
             "state" : "needs_review",
             "value" : "隐藏已完成提醒"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱藏已完成提醒"
+          }
         }
       }
     },
@@ -10703,6 +11339,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Hide for all apps"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Hide for all apps"
           }
         }
@@ -10805,6 +11447,12 @@
             "state" : "needs_review",
             "value" : "Hide for media app only"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide for media app only"
+          }
         }
       }
     },
@@ -10903,6 +11551,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Hide from screen recording"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Hide from screen recording"
           }
         }
@@ -11005,6 +11659,12 @@
             "state" : "needs_review",
             "value" : "Hide title bar"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide title bar"
+          }
         }
       }
     },
@@ -11105,6 +11765,12 @@
             "state" : "needs_review",
             "value" : "分级"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分級"
+          }
         }
       }
     },
@@ -11203,6 +11869,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "高"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "高"
           }
         }
@@ -11305,6 +11977,12 @@
             "state" : "needs_review",
             "value" : "Hover delay"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hover delay"
+          }
         }
       }
     },
@@ -11403,6 +12081,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "https://github.com/pear-devs/pear-desktop"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "https://github.com/pear-devs/pear-desktop"
           }
         }
@@ -11505,6 +12189,12 @@
             "state" : "needs_review",
             "value" : "HUD 样式"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HUD 樣式"
+          }
         }
       }
     },
@@ -11603,6 +12293,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "HUD"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "HUD"
           }
         }
@@ -11705,6 +12401,12 @@
             "state" : "needs_review",
             "value" : "进行中"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "進行中"
+          }
         }
       }
     },
@@ -11804,6 +12506,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "内嵌"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "內嵌"
           }
         }
       }
@@ -11906,6 +12614,12 @@
             "state" : "needs_review",
             "value" : "已安装扩展"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已安裝擴充套件"
+          }
         }
       }
     },
@@ -12004,6 +12718,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Layout Preview"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Layout Preview"
           }
         }
@@ -12106,6 +12826,12 @@
             "state" : "needs_review",
             "value" : "Lottie JSON 链接"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lottie JSON 連結"
+          }
         }
       }
     },
@@ -12204,6 +12930,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "低"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "低"
           }
         }
@@ -12306,6 +13038,12 @@
             "state" : "needs_review",
             "value" : "低电量模式"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "低電量模式"
+          }
         }
       }
     },
@@ -12405,6 +13143,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "不那么无趣的 not.people 团队 用🫶🏻出品"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不那麼無趣的 not.people 團隊 用🫶🏻出品"
           }
         }
       }
@@ -12506,6 +13250,12 @@
             "state" : "needs_review",
             "value" : "标记为已完成"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "標記為已完成"
+          }
         }
       }
     },
@@ -12606,6 +13356,12 @@
             "state" : "needs_review",
             "value" : "标记为未完成"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "標記為未完成"
+          }
         }
       }
     },
@@ -12704,6 +13460,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Match menu bar height"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Match menu bar height"
           }
         }
@@ -12806,6 +13568,12 @@
             "state" : "needs_review",
             "value" : "匹配菜单栏高度"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配選單列高度"
+          }
         }
       }
     },
@@ -12904,6 +13672,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Match real notch height"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Match real notch height"
           }
         }
@@ -13006,6 +13780,12 @@
             "state" : "needs_review",
             "value" : "最大容量：%lld%%"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大容量：%lld%%"
+          }
         }
       }
     },
@@ -13105,6 +13885,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "媒体"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒體"
           }
         }
       }
@@ -13206,6 +13992,12 @@
             "state" : "needs_review",
             "value" : "媒体控制"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒體控制"
+          }
         }
       }
     },
@@ -13305,6 +14097,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "媒体非活动超时"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒體閒置逾時"
           }
         }
       }
@@ -13406,6 +14204,12 @@
             "state" : "needs_review",
             "value" : "媒体播放实时动态"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒體播放即時動態"
+          }
         }
       }
     },
@@ -13506,6 +14310,12 @@
             "state" : "needs_review",
             "value" : "媒体来源"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒體來源"
+          }
         }
       }
     },
@@ -13604,6 +14414,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "中"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "中"
           }
         }
@@ -13706,6 +14522,12 @@
             "state" : "needs_review",
             "value" : "麦克风 %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "麥克風 %@"
+          }
         }
       }
     },
@@ -13805,6 +14627,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "镜子"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鏡像"
           }
         }
       }
@@ -13906,6 +14734,12 @@
             "state" : "needs_review",
             "value" : "镜子大小"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鏡像形狀"
+          }
         }
       }
     },
@@ -14004,6 +14838,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "更多"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "更多"
           }
         }
@@ -14106,6 +14946,12 @@
             "state" : "needs_review",
             "value" : "音乐源"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音樂源"
+          }
         }
       }
     },
@@ -14206,6 +15052,12 @@
             "state" : "needs_review",
             "value" : "已静音"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已靜音"
+          }
         }
       }
     },
@@ -14304,6 +15156,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Muted"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Muted"
           }
         }
@@ -14406,6 +15264,12 @@
             "state" : "needs_review",
             "value" : "名称"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名稱"
+          }
         }
       }
     },
@@ -14505,6 +15369,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "永不隐藏"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "永不隱藏"
           }
         }
       }
@@ -14606,6 +15476,12 @@
             "state" : "needs_review",
             "value" : "没有可用的自定义动画"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有可用的自定義動畫"
+          }
         }
       }
     },
@@ -14706,6 +15582,12 @@
             "state" : "needs_review",
             "value" : "没有自定义可视化器"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有自定義視覺化器"
+          }
         }
       }
     },
@@ -14804,6 +15686,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "No events"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "No events"
           }
         }
@@ -14906,6 +15794,12 @@
             "state" : "needs_review",
             "value" : "今天无日程"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天無行程"
+          }
         }
       }
     },
@@ -15007,6 +15901,12 @@
             "state" : "needs_review",
             "value" : "未安装扩展"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未安裝擴充套件"
+          }
         }
       }
     },
@@ -15106,6 +16006,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "不是现在"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不是現在"
           }
         }
       }
@@ -15207,6 +16113,12 @@
             "state" : "needs_review",
             "value" : "Notch行为"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notch行為"
+          }
         }
       }
     },
@@ -15305,6 +16217,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Notch height on non-notch displays"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Notch height on non-notch displays"
           }
         }
@@ -15407,6 +16325,12 @@
             "state" : "needs_review",
             "value" : "Notch height on notch displays"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notch height on notch displays"
+          }
         }
       }
     },
@@ -15505,6 +16429,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Notch sizing"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Notch sizing"
           }
         }
@@ -15607,6 +16537,12 @@
             "state" : "needs_review",
             "value" : "打开日历设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟日曆設定"
+          }
         }
       }
     },
@@ -15705,6 +16641,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Open Notch"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Open Notch"
           }
         }
@@ -15807,6 +16749,12 @@
             "state" : "needs_review",
             "value" : "悬停时打开Notch"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "懸停時開啟Notch"
+          }
         }
       }
     },
@@ -15906,6 +16854,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "打开提醒事项设置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟提醒事項設定"
           }
         }
       }
@@ -16007,6 +16961,12 @@
             "state" : "needs_review",
             "value" : "当项目存在时默认打开暂存器"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "當項目存在時預設開啟暫存區"
+          }
         }
       }
     },
@@ -16105,6 +17065,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Option key behaviour"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Option key behaviour"
           }
         }
@@ -16207,6 +17173,12 @@
             "state" : "needs_review",
             "value" : "Pick a Color"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a Color"
+          }
         }
       }
     },
@@ -16305,6 +17277,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "已插入"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "已插入"
           }
         }
@@ -16407,6 +17385,12 @@
             "state" : "needs_review",
             "value" : "Preferred display"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferred display"
+          }
         }
       }
     },
@@ -16505,6 +17489,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Progress bar style"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Progress bar style"
           }
         }
@@ -16607,6 +17597,12 @@
             "state" : "needs_review",
             "value" : "Quick Share"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Share"
+          }
         }
       }
     },
@@ -16705,6 +17701,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Quick Share Service"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Quick Share Service"
           }
         }
@@ -16807,6 +17809,12 @@
             "state" : "needs_review",
             "value" : "退出"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結束"
+          }
         }
       }
     },
@@ -16906,6 +17914,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "退出应用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結束應用程式"
           }
         }
       }
@@ -17007,6 +18021,12 @@
             "state" : "needs_review",
             "value" : "版本名称"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本名稱"
+          }
         }
       }
     },
@@ -17106,6 +18126,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "记住上一个标签页"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記住上一個標籤頁"
           }
         }
       }
@@ -17207,6 +18233,12 @@
             "state" : "needs_review",
             "value" : "提醒事项访问被拒绝。请在系统设置中启用它。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提醒事項存取被拒絕。請在系統設定中啟用它。"
+          }
         }
       }
     },
@@ -17307,6 +18339,12 @@
             "state" : "needs_review",
             "value" : "提醒事项"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提醒事項"
+          }
         }
       }
     },
@@ -17405,6 +18443,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Remove from shelf after dragging"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Remove from shelf after dragging"
           }
         }
@@ -17507,6 +18551,12 @@
             "state" : "needs_review",
             "value" : "Replace system HUD"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replace system HUD"
+          }
         }
       }
     },
@@ -17605,6 +18655,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Replaces the standard macOS volume, display brightness, and keyboard brightness HUDs with a custom design."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Replaces the standard macOS volume, display brightness, and keyboard brightness HUDs with a custom design."
           }
         }
@@ -17707,6 +18763,12 @@
             "state" : "needs_review",
             "value" : "Request Accessibility"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Request Accessibility"
+          }
         }
       }
     },
@@ -17805,6 +18867,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Reset to Defaults"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Reset to Defaults"
           }
         }
@@ -17908,6 +18976,12 @@
             "state" : "needs_review",
             "value" : "重启"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重啟"
+          }
         }
       }
     },
@@ -18007,6 +19081,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "重启 Boring Notch"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重啟 Boring Notch"
           }
         }
       }
@@ -18109,6 +19189,12 @@
             "state" : "needs_review",
             "value" : "运行中"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "執行中"
+          }
         }
       }
     },
@@ -18208,6 +19294,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "选择您想要使用的音乐源。您可以稍后在应用设置中更改此项。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇您想要使用的音樂來源。您可以稍後在應用程式設定中更改此項。"
           }
         }
       }
@@ -18309,6 +19401,12 @@
             "state" : "needs_review",
             "value" : "已选择"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已選擇"
+          }
         }
       }
     },
@@ -18408,6 +19506,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "所选动画"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所選動畫"
           }
         }
       }
@@ -18509,6 +19613,12 @@
             "state" : "needs_review",
             "value" : "设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
         }
       }
     },
@@ -18608,6 +19718,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "暂存器"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暫存區"
           }
         }
       }
@@ -18709,6 +19825,12 @@
             "state" : "needs_review",
             "value" : "快捷方式"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "捷徑"
+          }
         }
       }
     },
@@ -18808,6 +19930,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "显示电量"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示電量"
           }
         }
       }
@@ -18909,6 +20037,12 @@
             "state" : "needs_review",
             "value" : "显示电量百分比"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示電量百分比"
+          }
         }
       }
     },
@@ -19009,6 +20143,12 @@
             "state" : "needs_review",
             "value" : "显示日历"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示日曆"
+          }
         }
       }
     },
@@ -19107,6 +20247,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Show cool face animation while inactive"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show cool face animation while inactive"
           }
         }
@@ -19209,6 +20355,12 @@
             "state" : "needs_review",
             "value" : "Show HUD in open notch"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show HUD in open notch"
+          }
         }
       }
     },
@@ -19307,6 +20459,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Show lyrics below artist name"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show lyrics below artist name"
           }
         }
@@ -19409,6 +20567,12 @@
             "state" : "needs_review",
             "value" : "Show menu bar icon"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show menu bar icon"
+          }
         }
       }
     },
@@ -19507,6 +20671,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Show music live activity"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show music live activity"
           }
         }
@@ -19609,6 +20779,12 @@
             "state" : "needs_review",
             "value" : "Show notch on lock screen"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show notch on lock screen"
+          }
         }
       }
     },
@@ -19709,6 +20885,12 @@
             "state" : "needs_review",
             "value" : "在所有显示器上显示"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在所有顯示器上顯示"
+          }
         }
       }
     },
@@ -19807,6 +20989,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Show percentage"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show percentage"
           }
         }
@@ -19909,6 +21097,12 @@
             "state" : "needs_review",
             "value" : "显示电源状态图标"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示電源狀態圖示"
+          }
         }
       }
     },
@@ -20009,6 +21203,12 @@
             "state" : "needs_review",
             "value" : "显示电源状态通知"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示電源狀態通知"
+          }
         }
       }
     },
@@ -20107,6 +21307,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Show settings icon in notch"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Show settings icon in notch"
           }
         }
@@ -20209,6 +21415,12 @@
             "state" : "needs_review",
             "value" : "Show sneak peek on playback changes"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show sneak peek on playback changes"
+          }
         }
       }
     },
@@ -20308,6 +21520,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "滑块颜色"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滑桿顏色"
           }
         }
       }
@@ -20409,6 +21627,12 @@
             "state" : "needs_review",
             "value" : "Sneak Peek 在 Notch 下显示媒体标题和艺术家几秒钟。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sneak Peek 在 Notch 下顯示媒體標題和藝術家幾秒鐘。"
+          }
         }
       }
     },
@@ -20508,6 +21732,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "Sneak Peek 样式"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sneak Peek 樣式"
           }
         }
       }
@@ -20609,6 +21839,12 @@
             "state" : "needs_review",
             "value" : "软件更新"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "軟體更新"
+          }
         }
       }
     },
@@ -20709,6 +21945,12 @@
             "state" : "needs_review",
             "value" : "速度"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "速度"
+          }
         }
       }
     },
@@ -20807,6 +22049,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "方形"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "方形"
           }
         }
@@ -20910,6 +22158,12 @@
             "state" : "needs_review",
             "value" : "已停止"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已停止"
+          }
         }
       }
     },
@@ -21011,6 +22265,12 @@
             "state" : "needs_review",
             "value" : "支持我们"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援我們"
+          }
         }
       }
     },
@@ -21109,6 +22369,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "System"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "System"
           }
         }
@@ -21211,6 +22477,12 @@
             "state" : "needs_review",
             "value" : "系统功能"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統功能"
+          }
         }
       }
     },
@@ -21311,6 +22583,12 @@
             "state" : "needs_review",
             "value" : "充电时间：%lld 分钟"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "充電時間：%lld 分鐘"
+          }
         }
       }
     },
@@ -21409,6 +22687,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Tint progress bar with accent color"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Tint progress bar with accent color"
           }
         }
@@ -21511,6 +22795,12 @@
             "state" : "needs_review",
             "value" : "切换Notch："
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切換Notch："
+          }
         }
       }
     },
@@ -21611,6 +22901,12 @@
             "state" : "needs_review",
             "value" : "触发 Sneak Peek："
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "觸發 Sneak Peek："
+          }
         }
       }
     },
@@ -21710,6 +23006,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "在Notch里双指向上滑动以关闭。当**悬停在Notch时打开**选项禁用时，双指向下滑动即可打开"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在Notch裡雙指向上滑動以關閉。當**懸停在Notch時開啟**選項停用時，雙指向下滑動即可開啟"
           }
         }
       }
@@ -21812,6 +23114,12 @@
             "state" : "needs_review",
             "value" : "卸载"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解除安裝"
+          }
         }
       }
     },
@@ -21911,6 +23219,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "解锁高级功能并提升您的体验。现在升级以获取更多自定义功能！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解鎖高階功能並提升您的體驗。現在升級以獲取更多自定義功能！"
           }
         }
       }
@@ -22012,6 +23326,12 @@
             "state" : "needs_review",
             "value" : "已取消静音"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已取消靜音"
+          }
         }
       }
     },
@@ -22110,6 +23430,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Unmuted"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Unmuted"
           }
         }
@@ -22212,6 +23538,12 @@
             "state" : "needs_review",
             "value" : "升级至 Pro"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "升級至 Pro"
+          }
         }
       }
     },
@@ -22312,6 +23644,12 @@
             "state" : "needs_review",
             "value" : "使用音乐可视化器谱图"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用音樂視覺化器譜圖"
+          }
         }
       }
     },
@@ -22410,6 +23748,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Use your macOS system accent color"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Use your macOS system accent color"
           }
         }
@@ -22512,6 +23856,12 @@
             "state" : "needs_review",
             "value" : "Using System Accent"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Using System Accent"
+          }
         }
       }
     },
@@ -22610,6 +23960,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "版本"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "版本"
           }
         }
@@ -22712,6 +24068,12 @@
             "state" : "needs_review",
             "value" : "版本信息"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本資訊"
+          }
         }
       }
     },
@@ -22810,6 +24172,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "View on GitHub: pear-devs/pear-desktop"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "View on GitHub: pear-devs/pear-desktop"
           }
         }
@@ -22912,6 +24280,12 @@
             "state" : "needs_review",
             "value" : "欢迎"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "歡迎"
+          }
         }
       }
     },
@@ -23012,6 +24386,12 @@
             "state" : "needs_review",
             "value" : "更新内容"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新內容"
+          }
         }
       }
     },
@@ -23110,6 +24490,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Window Appearance"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Window Appearance"
           }
         }
@@ -23212,6 +24598,12 @@
             "state" : "needs_review",
             "value" : "Window Behavior"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Window Behavior"
+          }
         }
       }
     },
@@ -23311,6 +24703,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "如果您想进一步调整内容，您可以随时访问设置。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您想進一步調整，可以隨時前往設定。"
           }
         }
       }
@@ -23412,6 +24810,12 @@
             "state" : "needs_review",
             "value" : "一切都准备好了！"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一切都準備好了！"
+          }
         }
       }
     },
@@ -23510,6 +24914,12 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
+            "value" : "Your macOS system accent color"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Your macOS system accent color"
           }
         }
@@ -23611,6 +25021,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "YouTube 音乐需要安装此第三方应用程序： "
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "YouTube 音樂需要安裝此第三方應用程式： "
           }
         }
       }
